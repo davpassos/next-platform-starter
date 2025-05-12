@@ -4,6 +4,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
 import LanguageSelector from "../components/LanguageSelector";
 import Link from "next/link";
+import React from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
