@@ -1,0 +1,26 @@
+{
+  "title": "Global Stock Market Analysis",
+  "home": "Home",
+  "sectors": "Sectors",
+  "filter_stocks": "Filter Stocks",
+  "sector": "Sector",
+  "max_price": "Max Price",
+  "stock_type": "Stock Type",
+  "all": "All",
+  "large_cap": "Large Cap",
+  "small_cap": "Small Cap",
+  "penny_stock": "Penny Stock",
+  "table_headers": {
+    "sector": "Sector",
+    "market_cap": "Market Cap",
+    "index_weight": "{index} Weight",
+    "ticker": "Ticker",
+    "company": "Company",
+    "price_may_2025": "Price May 2025",
+    "cagr_5y": "CAGR 5Y",
+    "debt_equity": "Debt/Equity",
+    "upside": "Upside",
+    "pl": "P/L",
+    "stock_type": "Stock Type"
+  }
+}

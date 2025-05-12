@@ -1,0 +1,26 @@
+{
+  "title": "Análise Global do Mercado de Ações",
+  "home": "Início",
+  "sectors": "Setores",
+  "filter_stocks": "Filtrar Ações",
+  "sector": "Setor",
+  "max_price": "Preço Máximo",
+  "stock_type": "Tipo de Ação",
+  "all": "Todos",
+  "large_cap": "Large Cap",
+  "small_cap": "Small Cap",
+  "penny_stock": "Penny Stock",
+  "table_headers": {
+    "sector": "Setor",
+    "market_cap": "Capitalização de Mercado",
+    "index_weight": "Peso no {index}",
+    "ticker": "Ticker",
+    "company": "Empresa",
+    "price_may_2025": "Preço Maio 2025",
+    "cagr_5y": "CAGR 5 Anos",
+    "debt_equity": "Dívida/Patrimônio",
+    "upside": "Potencial de Valorização",
+    "pl": "P/L",
+    "stock_type": "Tipo de Ação"
+  }
+}
